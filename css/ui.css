@@ -1,0 +1,32 @@
+#changeBlockMenu{
+	position: absolute;
+	width: 100%;
+	left: 0;
+	bottom: 5px;
+	text-align: center;
+	z-index: 3000;
+	display: none;
+}
+
+.block{
+	width: 64px;
+	height:  64px;
+	border-radius: 5px;
+}
+
+#block1{
+	background-image: url( '../img/minecraft/dirt.jpg' );
+}
+
+#block2{
+	background-image: url( '../img/minecraft/grass1.png' );
+}
+
+#block3{
+	background-image: url( '../img/minecraft/crate.gif' );
+}
+
+#block4{
+	background-image: url( '../img/minecraft/steel.jpg' );
+}
+
